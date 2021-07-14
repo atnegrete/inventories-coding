@@ -18,7 +18,7 @@ Assume that you are writing a simple internal web portal.
 ### Notes
 * You may use any version of .net core or Angular 2+.
 * These are loose requirements and you can change/update the problem or solution, but please explain your reasoning.
-
+* Use clean code and best practices, this is an easy problem to solve. The focus should be around quality and decision making.
 
 ### Submission
 * Submit a zipped file or publicly accessible git URL that contains all of your code, notes, etc.
