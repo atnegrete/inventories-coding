@@ -6,7 +6,7 @@ The following is a simple problem that will give you a mocked JSON API that outp
 
 ## Problem
 Assume that you are writing a simple internal web portal. 
-* Use the following mocked API endpoint to get the data: https://mocki.io/v1/92db8d82-8041-4ee4-93b3-ae2468454ab6
+* Use the following mocked API endpoint to get the data: https://mocki.io/v1/0077e191-c3ae-47f6-bbbd-3b3b905e4a60
 
 1. Create a .net core rest API that queries the data above.
 2. Create a basic Angular (2+) application
@@ -21,5 +21,5 @@ Assume that you are writing a simple internal web portal.
 * Use clean code and best practices, this is an easy problem to solve. The focus should be around quality and decision making.
 
 ### Submission
-* Submit a zipped file or publicly accessible git URL that contains all of your code, notes, etc.
+* Submit a zipped file or a publicly accessible git URL that contains all of your code, notes, etc.
 * Do not include the node_modules folder.
