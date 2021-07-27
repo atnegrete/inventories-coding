@@ -8,7 +8,8 @@ The following is a simple problem that will give you a mocked JSON API that outp
 Assume that you are writing a simple internal web portal. 
 * Use the following mocked API endpoint to get the data: https://mocki.io/v1/0077e191-c3ae-47f6-bbbd-3b3b905e4a60
 
-1. Create a .net core rest API that queries the data above.
+1. Create a .net core rest API that queries the data above
+   * Implement Dependency Injection in at least one place of the API (controller/service/etc).
 2. Create a basic Angular (2+) application
     * Query the data from the .net core API created in step 1.
     * Display the packaging requests and the inventory that the requests are for.
